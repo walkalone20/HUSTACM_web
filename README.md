@@ -1,6 +1,6 @@
 # HUSTACM_web
 
-华中科技大学官方网站的源代码。源代码存放于 master 分支。
+华中科技大学 ACM-ICPC 集训队官方网站的源代码。源代码存放于 master 分支。
 
 本网站采用 Mkdocs 搭建。请 ```pip install mkdocs```。
 
